@@ -49,6 +49,6 @@ export const projectData = [
     mockup: "project-mockup/tazza-project.png",
     tools: ["HTML", "Vanilla JS", "Bootstrap", "Heroku"],
     live: "https://taazorganic.netlify.app/",
-    sourcecode: "https://github.com/PramodAcharya808/TaAZ-Organic-Store",
+    sourcecode: "https://github.com/charu-p-sharma/TazZa-Grocery-Store",
   },
 ];
