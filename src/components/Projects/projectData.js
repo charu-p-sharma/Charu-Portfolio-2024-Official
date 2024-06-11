@@ -48,7 +48,7 @@ export const projectData = [
       "TazZA is an organic fresh and natural food suppling company. The website is made to display their products and services to the customer.",
     mockup: "project-mockup/tazza-project.png",
     tools: ["HTML", "Vanilla JS", "Bootstrap", "Vercel"],
-    live: "https://taazorganic.netlify.app/",
+    live: "https://tazza-grocery-store.vercel.app/",
     sourcecode: "https://github.com/charu-p-sharma/TazZa-Grocery-Store",
   },
 ];
